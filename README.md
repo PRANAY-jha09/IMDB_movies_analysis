@@ -5,18 +5,18 @@ _A comprehensive data analysis of 100+ years of cinematic history, focusing on p
 ---
 
 ## 📌 Table of Contents
-- [Overview](#overview)
-- [Business Problem](#business-problem)
-- [Dataset](#dataset)
-- [Tools & Technologies](#tools--technologies)
-- [Project Structure](#project-structure)
-- [Data Cleaning & Preparation](#data-cleaning--preparation)
-- [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-- [KPIs & Key Research Findings](#kpis--key-research-findings)
-- [Dashboard Highlights](#dashboard-highlights)
-- [How to Run This Project](#how-to-run-this-project)
-- [Final Strategic Recommendations](#final-strategic-recommendations)
-- [Author & Contact](#author--contact)
+* [Overview](#overview)
+* [Business Problem](#business-problem)
+* [Dataset](#dataset)
+* [Tools & Technologies](#tools--technologies)
+* [Project Structure](#project-structure)
+* [Data Cleaning & Preparation](#data-cleaning--preparation)
+* [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
+* [KPIs & Key Research Findings](#kpis--key-research-findings)
+* [Dashboard Highlights](#dashboard-highlights)
+* [How to Run This Project](#how-to-run-this-project)
+* [Final Strategic Recommendations](#final-strategic-recommendations)
+* [Author & Contact](#author--contact)
 
 ---
 
