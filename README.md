@@ -100,8 +100,11 @@ imdb-cinema-analysis/
 ## 🖥️ Dashboard Highlights
 <img src="dashboard%20screenshot/Screenshot%202025-12-28%20105037.png" width="600">
 - **Total Gross by Release Year:** Area chart showing the financial evolution of cinema.
+
 - **Meta Score Distribution:** Box-and-whisker plots for quality benchmarking.
+ 
 - **Genre Word Cloud:** Visualizing market saturation and genre popularity.
+  
 - **Top 10 Rankings:** Dynamic lists of movies by Rating and Voter Engagement.
 
 ---
